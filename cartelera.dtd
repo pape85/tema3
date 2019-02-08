@@ -1,0 +1,8 @@
+<!ELEMENT cartelera  (pelicula+) >
+<!ELEMENT pelicula (titulo, director, fecha, formato, idioma) >
+<!ATTLIST pelicula genero (drama | accion | comedia | terror) #REQUIRED>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT formato (#PCDATA)>
+<!ELEMENT idioma (#PCDATA)>

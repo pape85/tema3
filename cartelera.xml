@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!--<!DOCTYPE cartelera SYSTEM "cartelera.dtd">-->
+
+<cartelera
+
+
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="cartelera.xsd">
+
+<pelicula genero="drama">
+  <titulo>Rocky</titulo>
+  <director>John Avildsen</director>
+  <fecha>1976</fecha>
+  <formato>BluRay</formato>
+  <idioma>Español</idioma>
+</pelicula>
+
+<pelicula genero="terror">
+  <titulo>Saw</titulo>
+  <director>James wan</director>
+  <fecha>2004</fecha>
+  <formato>BluRay</formato>
+  <idioma>Español</idioma>
+</pelicula>
+
+<pelicula genero="drama">
+  <titulo>Gladiator</titulo>
+  <director>Ridley Scott</director>
+  <fecha>2000</fecha>
+  <formato>BluRay</formato>
+  <idioma>Español</idioma>
+</pelicula>
+
+<pelicula genero="accion">
+  <titulo>Rambo</titulo>
+  <director>Ted Kotcheff</director>
+  <fecha>1982</fecha>
+  <formato>BluRay</formato>
+  <idioma>Español</idioma>
+</pelicula>
+
+<pelicula genero="comedia">
+  <titulo>Dos tontos muy tontos</titulo>
+  <director>Peter Farrelly</director>
+  <fecha>1994</fecha>
+  <formato>BluRay</formato>
+  <idioma>Español</idioma>
+</pelicula>
+
+<pelicula genero="accion">
+  <titulo>A todo gas</titulo>
+  <director>Rob Cohen</director>
+  <fecha>2001</fecha>
+  <formato>BluRay</formato>
+  <idioma>Español</idioma>
+</pelicula>
+
+<pelicula genero="accion">
+  <titulo>Iron man</titulo>
+  <director>Jon Favreau</director>
+  <fecha>2008</fecha>
+  <formato>BluRay</formato>
+  <idioma>Español</idioma>
+</pelicula>
+
+
+</cartelera>
